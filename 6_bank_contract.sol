@@ -15,7 +15,7 @@ contract Bank {
         _;
     }
     
-    receive() external payable {
+    receive() external payable virtual {
         balances[msg.sender] += msg.value;
         updateTopThree(msg.sender);
     }
