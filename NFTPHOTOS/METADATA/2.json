@@ -1,0 +1,11 @@
+{
+    "name": "liyang2",
+    "description": "A cheerful robot enjoying a pint of the finest oil!",
+    "image": "https://gold-late-nightingale-703.mypinata.cloud/ipfs/QmRf5yterVGbFC9Dw1JqtWt7byv1BWbeQnXiVNd82caAJ3/2.jpeg",
+    "attributes": [
+        {
+            "trait_type": "Mood",
+            "value": "Happy"
+        }
+    ]
+}
